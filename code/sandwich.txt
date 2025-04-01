@@ -1,0 +1,21 @@
+estimate: 16 lines
+
+select bread
+put in front of you (or at x longitude and x latitude)
+define top left as a
+define top right as b
+define bottom right as c
+define botton left as d
+select peanut butter
+open jar of peanut butter
+select knife
+put knife in PB (at PB location)
+move knife to o deg, 90 deg, 180 deg, and 270 degree and repeat 4 times (in horizontal plane)
+move knife to a
+move to b
+move to c
+move to d
+put knife back to starting point
+repeat 9-18 for jelly
+select bread
+put in front of you (or at x longitude and x latitude)
